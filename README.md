@@ -13,14 +13,12 @@ Basic Features
 
 Advanced Features
 
-1. Login/SignUp using Facebook and Gmail (Use API provided by Facebook and Gmail).
+1. Implement search feature based on Company name or Student name.
 
-2. Implement search feature based on Company name or Student name.
+2. Student can also upload their resumes and profile picture.
 
-3. Student can also upload their resumes and profile picture.
+3. Implement a group chat feature.
 
-4. Implement a group chat feature.
+4. Send a message directly to any user.
 
-5. Send a message directly to any user.
-
-6. Categorize the posts based on company name.
+5. Categorize the posts based on company name.
